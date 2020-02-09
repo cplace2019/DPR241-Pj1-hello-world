@@ -8,7 +8,7 @@ The DPR241-Pj1-hello-world repository is my first Github repository for DPR241: 
 > Make changes to a file and push them to GitHub as commits<br>
 > Open and merge a pull request<br>
 <br>
-The Hello World project is a time-honored tradition in computer programming -GitHub<br>
+The Hello World project is a time-honored tradition in computer programming. -GitHub<br>
 <br>
 -Carmen Renwick<br>
 <br>
